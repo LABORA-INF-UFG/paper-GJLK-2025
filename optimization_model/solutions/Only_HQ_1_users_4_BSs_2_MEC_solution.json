@@ -1,0 +1,104 @@
+{
+    "Instance": {
+        "number_of_users": 1,
+        "number_of_BSs": 4,
+        "number_of_MECs": 2,
+        "image_ID": [
+            817,
+            473,
+            973,
+            540,
+            593,
+            480,
+            262,
+            262,
+            262,
+            262,
+            262,
+            262,
+            651,
+            775,
+            715,
+            385
+        ]
+    },
+    "Solution": {
+        "Status": "Optimal",
+        "BS_user_association": [
+            {
+                "User_0": "BS_0",
+                "Bandwidth": 10110630,
+                "SINR": 18.51719850957113,
+                "Throughput": 249588456.0956747,
+                "Latency": 0.03333333021219321,
+                "FPS": 30
+            }
+        ],
+        "Object_resolution": {
+            "User_0": [
+                {
+                    "Object_ID": 0,
+                    "Resolution": 8,
+                    "Length": 66526,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 4,
+                    "Resolution": 8,
+                    "Length": 693,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 1,
+                    "Resolution": 8,
+                    "Length": 18034,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 8,
+                    "Length": 38953,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 32,
+                    "Resolution": 8,
+                    "Length": 47321,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 119,
+                    "Resolution": 8,
+                    "Length": 20,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 29,
+                    "Resolution": 8,
+                    "Length": 58853,
+                    "Attention": 3
+                }
+            ]
+        },
+        "BSs_usage": {
+            "BS_0": 10110630,
+            "BS_1": 0,
+            "BS_2": 0,
+            "BS_3": 0
+        },
+        "Apps_placement": [
+            {
+                "User_0": "MEC_0"
+            }
+        ],
+        "MEC_usage": {
+            "MEC_0": 437944320000.0,
+            "MEC_1": 0
+        },
+        "Users_QoE": {
+            "User_0": 23.56700413903814
+        },
+        "Total_QoE": 23.56700413903814,
+        "Time": 0.02
+    }
+}

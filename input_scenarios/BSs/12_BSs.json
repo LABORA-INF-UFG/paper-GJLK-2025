@@ -1,0 +1,88 @@
+{
+    "BSs":[
+        {
+            "ID": 0,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 1,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 2,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 3,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 4,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 5,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 6,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 7,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 8,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 9,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 10,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        },
+        {
+            "ID": 11,
+            "TxPw": 30,
+            "BW": 100000000,
+            "range": 5,
+            "Pkt_proc": 10
+        }
+    ]
+}

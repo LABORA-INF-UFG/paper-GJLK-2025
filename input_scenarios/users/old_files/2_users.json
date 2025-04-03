@@ -1,0 +1,120 @@
+{
+    "users": [
+        {
+            "ID": 0,
+            "device": {
+                "resolution": "8k",
+                "fps": 60
+            },
+            "application_ID": 0,
+            "SINR": [
+                {
+                    "BS_ID": 0,
+                    "SINR": 30
+                },
+                {
+                    "BS_ID": 1,
+                    "SINR": 27
+                },
+                {
+                    "BS_ID": 2,
+                    "SINR": 30
+                },
+                {
+                    "BS_ID": 3,
+                    "SINR": 30
+                },
+                {
+                    "BS_ID": 4,
+                    "SINR": 30
+                },
+                {
+                    "BS_ID": 5,
+                    "SINR": 29
+                },
+                {
+                    "BS_ID": 6,
+                    "SINR": 25
+                },
+                {
+                    "BS_ID": 7,
+                    "SINR": 28
+                },
+                {
+                    "BS_ID": 8,
+                    "SINR": 26
+                },
+                {
+                    "BS_ID": 9,
+                    "SINR": 30
+                },
+                {
+                    "BS_ID": 10,
+                    "SINR": 25
+                },
+                {
+                    "BS_ID": 11,
+                    "SINR": 26
+                }
+            ]
+        },
+        {
+            "ID": 1,
+            "device": {
+                "resolution": "2k",
+                "fps": 60
+            },
+            "application_ID": 0,
+            "SINR": [
+                {
+                    "BS_ID": 0,
+                    "SINR": 28
+                },
+                {
+                    "BS_ID": 1,
+                    "SINR": 26
+                },
+                {
+                    "BS_ID": 2,
+                    "SINR": 28
+                },
+                {
+                    "BS_ID": 3,
+                    "SINR": 29
+                },
+                {
+                    "BS_ID": 4,
+                    "SINR": 25
+                },
+                {
+                    "BS_ID": 5,
+                    "SINR": 29
+                },
+                {
+                    "BS_ID": 6,
+                    "SINR": 26
+                },
+                {
+                    "BS_ID": 7,
+                    "SINR": 25
+                },
+                {
+                    "BS_ID": 8,
+                    "SINR": 30
+                },
+                {
+                    "BS_ID": 9,
+                    "SINR": 26
+                },
+                {
+                    "BS_ID": 10,
+                    "SINR": 28
+                },
+                {
+                    "BS_ID": 11,
+                    "SINR": 27
+                }
+            ]
+        }
+    ]
+}

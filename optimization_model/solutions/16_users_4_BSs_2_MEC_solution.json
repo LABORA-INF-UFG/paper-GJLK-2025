@@ -1,0 +1,1430 @@
+{
+    "Instance": {
+        "number_of_users": 16,
+        "number_of_BSs": 4,
+        "number_of_MECs": 2,
+        "image_ID": [
+            817,
+            473,
+            973,
+            540,
+            593,
+            480,
+            262,
+            262,
+            262,
+            262,
+            262,
+            262,
+            651,
+            775,
+            715,
+            385
+        ]
+    },
+    "Solution": {
+        "Status": "Feasible",
+        "BS_user_association": [
+            {
+                "User_0": "BS_0",
+                "Bandwidth": 2527536,
+                "SINR": 18.51719850957113,
+                "Throughput": 62394114.70563528,
+                "Latency": 0.03333332499156655,
+                "FPS": 30
+            },
+            {
+                "User_1": "BS_0",
+                "Bandwidth": 5444699,
+                "SINR": 17.32554851633006,
+                "Throughput": 125922496.54506385,
+                "Latency": 0.016406768059523152,
+                "FPS": 30
+            },
+            {
+                "User_4": "BS_0",
+                "Bandwidth": 3351194,
+                "SINR": 13.80632844147806,
+                "Throughput": 62267875.22757551,
+                "Latency": 0.03333332865849592,
+                "FPS": 30
+            },
+            {
+                "User_7": "BS_0",
+                "Bandwidth": 13312860,
+                "SINR": 18.834726622948267,
+                "Throughput": 334179699.7372971,
+                "Latency": 0.02485257535546026,
+                "FPS": 30
+            },
+            {
+                "User_8": "BS_0",
+                "Bandwidth": 6134221,
+                "SINR": 15.592632493934712,
+                "Throughput": 128058582.01384449,
+                "Latency": 0.015414288985145592,
+                "FPS": 30
+            },
+            {
+                "User_11": "BS_0",
+                "Bandwidth": 13854916,
+                "SINR": 14.346551167407409,
+                "Throughput": 267006371.2062264,
+                "Latency": 0.028872195134589235,
+                "FPS": 30
+            },
+            {
+                "User_12": "BS_0",
+                "Bandwidth": 14045256,
+                "SINR": 13.13655654551999,
+                "Throughput": 249010542.8716715,
+                "Latency": 0.032992089195664674,
+                "FPS": 30
+            },
+            {
+                "User_15": "BS_0",
+                "Bandwidth": 41329318,
+                "SINR": 16.908145355895044,
+                "Throughput": 933359759.3541912,
+                "Latency": 0.02623068488968177,
+                "FPS": 30
+            },
+            {
+                "User_2": "BS_1",
+                "Bandwidth": 10867606,
+                "SINR": 25.410382667123912,
+                "Throughput": 367120393.23126197,
+                "Latency": 0.03153292267072026,
+                "FPS": 30
+            },
+            {
+                "User_3": "BS_1",
+                "Bandwidth": 12582810,
+                "SINR": 14.65768582907941,
+                "Throughput": 247514724.3811743,
+                "Latency": 0.033297982364974575,
+                "FPS": 30
+            },
+            {
+                "User_5": "BS_1",
+                "Bandwidth": 6904343,
+                "SINR": 20.269237635731145,
+                "Throughput": 186328647.6642646,
+                "Latency": 0.033255571502170234,
+                "FPS": 30
+            },
+            {
+                "User_6": "BS_1",
+                "Bandwidth": 13279476,
+                "SINR": 22.347152517800566,
+                "Throughput": 394769207.2567175,
+                "Latency": 0.02105244535698898,
+                "FPS": 30
+            },
+            {
+                "User_9": "BS_1",
+                "Bandwidth": 5303689,
+                "SINR": 10.544735250240118,
+                "Throughput": 76900192.64912423,
+                "Latency": 0.02701311522768782,
+                "FPS": 30
+            },
+            {
+                "User_10": "BS_1",
+                "Bandwidth": 44281915,
+                "SINR": 8.939319446590568,
+                "Throughput": 556697136.8559021,
+                "Latency": 0.02978788226792354,
+                "FPS": 30
+            },
+            {
+                "User_13": "BS_1",
+                "Bandwidth": 3254021,
+                "SINR": 25.878580470600603,
+                "Throughput": 111943531.16473624,
+                "Latency": 0.0165229644272205,
+                "FPS": 30
+            },
+            {
+                "User_14": "BS_1",
+                "Bandwidth": 2143257,
+                "SINR": 21.890235417963957,
+                "Throughput": 62420941.422577366,
+                "Latency": 0.03332064473532567,
+                "FPS": 30
+            }
+        ],
+        "Object_resolution": {
+            "User_0": [
+                {
+                    "Object_ID": 0,
+                    "Resolution": 4,
+                    "Length": 66526,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 4,
+                    "Resolution": 4,
+                    "Length": 693,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 1,
+                    "Resolution": 4,
+                    "Length": 18034,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 4,
+                    "Length": 38953,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 32,
+                    "Resolution": 4,
+                    "Length": 47321,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 119,
+                    "Resolution": 2,
+                    "Length": 20,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 29,
+                    "Resolution": 4,
+                    "Length": 58853,
+                    "Attention": 3
+                }
+            ],
+            "User_1": [
+                {
+                    "Object_ID": 0,
+                    "Resolution": 4,
+                    "Length": 71064,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 18,
+                    "Resolution": 4,
+                    "Length": 11586,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 14,
+                    "Resolution": 4,
+                    "Length": 12605,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 17,
+                    "Resolution": 4,
+                    "Length": 6436,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 62,
+                    "Resolution": 4,
+                    "Length": 17488,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 67,
+                    "Resolution": 4,
+                    "Length": 8033,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 112,
+                    "Resolution": 2,
+                    "Length": 2585,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 141,
+                    "Resolution": 2,
+                    "Length": 1328,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 19,
+                    "Resolution": 4,
+                    "Length": 15287,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 74,
+                    "Resolution": 4,
+                    "Length": 1130,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 15,
+                    "Resolution": 4,
+                    "Length": 17557,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 41,
+                    "Resolution": 4,
+                    "Length": 484,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 146,
+                    "Resolution": 2,
+                    "Length": 155,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 3,
+                    "Resolution": 4,
+                    "Length": 15141,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 28,
+                    "Resolution": 4,
+                    "Length": 49521,
+                    "Attention": 2
+                }
+            ],
+            "User_2": [
+                {
+                    "Object_ID": 120,
+                    "Resolution": 2,
+                    "Length": 81509,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 137,
+                    "Resolution": 2,
+                    "Length": 42660,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 119,
+                    "Resolution": 2,
+                    "Length": 2381,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 0,
+                    "Resolution": 12,
+                    "Length": 68711,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 47,
+                    "Resolution": 24,
+                    "Length": 754,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 41,
+                    "Resolution": 24,
+                    "Length": 3685,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 17,
+                    "Resolution": 12,
+                    "Length": 23994,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 125,
+                    "Resolution": 12,
+                    "Length": 358,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 11,
+                    "Resolution": 24,
+                    "Length": 3906,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 45,
+                    "Resolution": 24,
+                    "Length": 2314,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 3,
+                    "Resolution": 24,
+                    "Length": 128,
+                    "Attention": 4
+                }
+            ],
+            "User_3": [
+                {
+                    "Object_ID": 15,
+                    "Resolution": 2,
+                    "Length": 2427,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 0,
+                    "Resolution": 8,
+                    "Length": 106351,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 5,
+                    "Resolution": 8,
+                    "Length": 20984,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 14,
+                    "Resolution": 8,
+                    "Length": 11427,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 35,
+                    "Resolution": 8,
+                    "Length": 1750,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 134,
+                    "Resolution": 8,
+                    "Length": 205,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 22,
+                    "Resolution": 8,
+                    "Length": 6113,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 36,
+                    "Resolution": 8,
+                    "Length": 363,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 7,
+                    "Resolution": 8,
+                    "Length": 48824,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 39,
+                    "Resolution": 8,
+                    "Length": 2859,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 57,
+                    "Resolution": 8,
+                    "Length": 4281,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 10,
+                    "Resolution": 8,
+                    "Length": 3757,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 3,
+                    "Resolution": 8,
+                    "Length": 10979,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 30,
+                    "Resolution": 8,
+                    "Length": 8859,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 33,
+                    "Resolution": 8,
+                    "Length": 1085,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 67,
+                    "Resolution": 8,
+                    "Length": 136,
+                    "Attention": 3
+                }
+            ],
+            "User_4": [
+                {
+                    "Object_ID": 1,
+                    "Resolution": 4,
+                    "Length": 141802,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 43,
+                    "Resolution": 4,
+                    "Length": 7939,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 4,
+                    "Length": 79800,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 123,
+                    "Resolution": 2,
+                    "Length": 859,
+                    "Attention": 0
+                }
+            ],
+            "User_5": [
+                {
+                    "Object_ID": 112,
+                    "Resolution": 2,
+                    "Length": 2689,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 20,
+                    "Resolution": 2,
+                    "Length": 2844,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 135,
+                    "Resolution": 2,
+                    "Length": 3272,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 15,
+                    "Resolution": 2,
+                    "Length": 49319,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 98,
+                    "Resolution": 4,
+                    "Length": 1858,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 147,
+                    "Resolution": 2,
+                    "Length": 2839,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 115,
+                    "Resolution": 4,
+                    "Length": 2,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 142,
+                    "Resolution": 4,
+                    "Length": 4286,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 0,
+                    "Resolution": 8,
+                    "Length": 89947,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 93,
+                    "Resolution": 8,
+                    "Length": 5081,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 86,
+                    "Resolution": 8,
+                    "Length": 1756,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 8,
+                    "Resolution": 8,
+                    "Length": 57,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 8,
+                    "Length": 31240,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 66,
+                    "Resolution": 8,
+                    "Length": 10541,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 6,
+                    "Resolution": 8,
+                    "Length": 8739,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 11,
+                    "Resolution": 8,
+                    "Length": 701,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 19,
+                    "Resolution": 8,
+                    "Length": 10794,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 3,
+                    "Resolution": 8,
+                    "Length": 2082,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 77,
+                    "Resolution": 8,
+                    "Length": 2353,
+                    "Attention": 2
+                }
+            ],
+            "User_6": [
+                {
+                    "Object_ID": 127,
+                    "Resolution": 2,
+                    "Length": 636,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 115,
+                    "Resolution": 2,
+                    "Length": 96,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 1,
+                    "Resolution": 8,
+                    "Length": 125820,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 4,
+                    "Resolution": 8,
+                    "Length": 3975,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 87,
+                    "Resolution": 8,
+                    "Length": 79,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 80,
+                    "Resolution": 8,
+                    "Length": 21710,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 43,
+                    "Resolution": 8,
+                    "Length": 6,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 8,
+                    "Length": 23674,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 6,
+                    "Resolution": 8,
+                    "Length": 37283,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 11,
+                    "Resolution": 8,
+                    "Length": 17083,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 69,
+                    "Resolution": 8,
+                    "Length": 35,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 93,
+                    "Resolution": 8,
+                    "Length": 3,
+                    "Attention": 2
+                }
+            ],
+            "User_7": [
+                {
+                    "Object_ID": 87,
+                    "Resolution": 2,
+                    "Length": 79,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 43,
+                    "Resolution": 4,
+                    "Length": 6,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 127,
+                    "Resolution": 4,
+                    "Length": 636,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 115,
+                    "Resolution": 2,
+                    "Length": 96,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 1,
+                    "Resolution": 8,
+                    "Length": 125820,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 4,
+                    "Resolution": 8,
+                    "Length": 3975,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 80,
+                    "Resolution": 8,
+                    "Length": 21710,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 8,
+                    "Length": 23674,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 6,
+                    "Resolution": 8,
+                    "Length": 37283,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 11,
+                    "Resolution": 8,
+                    "Length": 17083,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 69,
+                    "Resolution": 8,
+                    "Length": 35,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 93,
+                    "Resolution": 8,
+                    "Length": 3,
+                    "Attention": 2
+                }
+            ],
+            "User_8": [
+                {
+                    "Object_ID": 1,
+                    "Resolution": 4,
+                    "Length": 125820,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 4,
+                    "Resolution": 4,
+                    "Length": 3975,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 87,
+                    "Resolution": 2,
+                    "Length": 79,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 80,
+                    "Resolution": 2,
+                    "Length": 21710,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 43,
+                    "Resolution": 4,
+                    "Length": 6,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 4,
+                    "Length": 23674,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 6,
+                    "Resolution": 4,
+                    "Length": 37283,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 11,
+                    "Resolution": 4,
+                    "Length": 17083,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 127,
+                    "Resolution": 2,
+                    "Length": 636,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 69,
+                    "Resolution": 4,
+                    "Length": 35,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 115,
+                    "Resolution": 2,
+                    "Length": 96,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 93,
+                    "Resolution": 4,
+                    "Length": 3,
+                    "Attention": 2
+                }
+            ],
+            "User_9": [
+                {
+                    "Object_ID": 1,
+                    "Resolution": 4,
+                    "Length": 125820,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 4,
+                    "Resolution": 4,
+                    "Length": 3975,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 87,
+                    "Resolution": 2,
+                    "Length": 79,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 80,
+                    "Resolution": 4,
+                    "Length": 21710,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 43,
+                    "Resolution": 4,
+                    "Length": 6,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 4,
+                    "Length": 23674,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 6,
+                    "Resolution": 4,
+                    "Length": 37283,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 11,
+                    "Resolution": 4,
+                    "Length": 17083,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 127,
+                    "Resolution": 2,
+                    "Length": 636,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 69,
+                    "Resolution": 4,
+                    "Length": 35,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 115,
+                    "Resolution": 2,
+                    "Length": 96,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 93,
+                    "Resolution": 4,
+                    "Length": 3,
+                    "Attention": 2
+                }
+            ],
+            "User_10": [
+                {
+                    "Object_ID": 80,
+                    "Resolution": 4,
+                    "Length": 21710,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 43,
+                    "Resolution": 4,
+                    "Length": 6,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 127,
+                    "Resolution": 2,
+                    "Length": 636,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 115,
+                    "Resolution": 4,
+                    "Length": 96,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 1,
+                    "Resolution": 8,
+                    "Length": 125820,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 4,
+                    "Resolution": 24,
+                    "Length": 3975,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 87,
+                    "Resolution": 24,
+                    "Length": 79,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 12,
+                    "Length": 23674,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 6,
+                    "Resolution": 12,
+                    "Length": 37283,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 11,
+                    "Resolution": 24,
+                    "Length": 17083,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 69,
+                    "Resolution": 24,
+                    "Length": 35,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 93,
+                    "Resolution": 24,
+                    "Length": 3,
+                    "Attention": 3
+                }
+            ],
+            "User_11": [
+                {
+                    "Object_ID": 87,
+                    "Resolution": 2,
+                    "Length": 79,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 80,
+                    "Resolution": 4,
+                    "Length": 21710,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 43,
+                    "Resolution": 2,
+                    "Length": 6,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 127,
+                    "Resolution": 2,
+                    "Length": 636,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 115,
+                    "Resolution": 2,
+                    "Length": 96,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 1,
+                    "Resolution": 8,
+                    "Length": 125820,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 4,
+                    "Resolution": 8,
+                    "Length": 3975,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 8,
+                    "Length": 23674,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 6,
+                    "Resolution": 8,
+                    "Length": 37283,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 11,
+                    "Resolution": 8,
+                    "Length": 17083,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 69,
+                    "Resolution": 8,
+                    "Length": 35,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 93,
+                    "Resolution": 8,
+                    "Length": 3,
+                    "Attention": 3
+                }
+            ],
+            "User_12": [
+                {
+                    "Object_ID": 135,
+                    "Resolution": 2,
+                    "Length": 1779,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 121,
+                    "Resolution": 4,
+                    "Length": 1750,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 0,
+                    "Resolution": 8,
+                    "Length": 130633,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 5,
+                    "Resolution": 8,
+                    "Length": 14669,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 17,
+                    "Resolution": 8,
+                    "Length": 2829,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 8,
+                    "Resolution": 8,
+                    "Length": 3181,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 82,
+                    "Resolution": 8,
+                    "Length": 276,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 8,
+                    "Length": 21405,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 95,
+                    "Resolution": 8,
+                    "Length": 1768,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 3,
+                    "Resolution": 8,
+                    "Length": 51730,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 19,
+                    "Resolution": 8,
+                    "Length": 380,
+                    "Attention": 5
+                }
+            ],
+            "User_13": [
+                {
+                    "Object_ID": 0,
+                    "Resolution": 4,
+                    "Length": 78215,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 18,
+                    "Resolution": 4,
+                    "Length": 11693,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 36,
+                    "Resolution": 4,
+                    "Length": 3121,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 8,
+                    "Resolution": 4,
+                    "Length": 7754,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 17,
+                    "Resolution": 4,
+                    "Length": 2217,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 22,
+                    "Resolution": 4,
+                    "Length": 2721,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 143,
+                    "Resolution": 2,
+                    "Length": 20231,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 147,
+                    "Resolution": 2,
+                    "Length": 23256,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 19,
+                    "Resolution": 4,
+                    "Length": 2498,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 137,
+                    "Resolution": 2,
+                    "Length": 3567,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 15,
+                    "Resolution": 4,
+                    "Length": 73727,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 74,
+                    "Resolution": 4,
+                    "Length": 1400,
+                    "Attention": 5
+                }
+            ],
+            "User_14": [
+                {
+                    "Object_ID": 0,
+                    "Resolution": 4,
+                    "Length": 146328,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 12,
+                    "Resolution": 4,
+                    "Length": 56999,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 3,
+                    "Resolution": 4,
+                    "Length": 27073,
+                    "Attention": 4
+                }
+            ],
+            "User_15": [
+                {
+                    "Object_ID": 148,
+                    "Resolution": 2,
+                    "Length": 297,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 24,
+                    "Resolution": 2,
+                    "Length": 5654,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 132,
+                    "Resolution": 2,
+                    "Length": 1684,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 142,
+                    "Resolution": 4,
+                    "Length": 4,
+                    "Attention": 0
+                },
+                {
+                    "Object_ID": 0,
+                    "Resolution": 8,
+                    "Length": 103166,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 18,
+                    "Resolution": 8,
+                    "Length": 9774,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 5,
+                    "Resolution": 12,
+                    "Length": 18960,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 22,
+                    "Resolution": 24,
+                    "Length": 10156,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 8,
+                    "Resolution": 24,
+                    "Length": 7130,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 27,
+                    "Resolution": 24,
+                    "Length": 1990,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 14,
+                    "Resolution": 24,
+                    "Length": 2878,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 36,
+                    "Resolution": 12,
+                    "Length": 1964,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 89,
+                    "Resolution": 24,
+                    "Length": 1225,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 10,
+                    "Resolution": 12,
+                    "Length": 13675,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 49,
+                    "Resolution": 24,
+                    "Length": 2069,
+                    "Attention": 2
+                },
+                {
+                    "Object_ID": 23,
+                    "Resolution": 24,
+                    "Length": 978,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 30,
+                    "Resolution": 24,
+                    "Length": 3284,
+                    "Attention": 5
+                },
+                {
+                    "Object_ID": 67,
+                    "Resolution": 24,
+                    "Length": 75,
+                    "Attention": 3
+                },
+                {
+                    "Object_ID": 19,
+                    "Resolution": 12,
+                    "Length": 14091,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 15,
+                    "Resolution": 24,
+                    "Length": 12844,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 3,
+                    "Resolution": 12,
+                    "Length": 14232,
+                    "Attention": 4
+                },
+                {
+                    "Object_ID": 64,
+                    "Resolution": 24,
+                    "Length": 2,
+                    "Attention": 1
+                },
+                {
+                    "Object_ID": 28,
+                    "Resolution": 24,
+                    "Length": 4268,
+                    "Attention": 2
+                }
+            ]
+        },
+        "BSs_usage": {
+            "BS_0": 100000000,
+            "BS_1": 98617117,
+            "BS_2": 0,
+            "BS_3": 0
+        },
+        "Apps_placement": [
+            {
+                "User_0": "MEC_0"
+            },
+            {
+                "User_1": "MEC_0"
+            },
+            {
+                "User_4": "MEC_0"
+            },
+            {
+                "User_7": "MEC_0"
+            },
+            {
+                "User_8": "MEC_0"
+            },
+            {
+                "User_11": "MEC_0"
+            },
+            {
+                "User_12": "MEC_0"
+            },
+            {
+                "User_15": "MEC_0"
+            },
+            {
+                "User_2": "MEC_1"
+            },
+            {
+                "User_3": "MEC_1"
+            },
+            {
+                "User_5": "MEC_1"
+            },
+            {
+                "User_6": "MEC_1"
+            },
+            {
+                "User_9": "MEC_1"
+            },
+            {
+                "User_10": "MEC_1"
+            },
+            {
+                "User_13": "MEC_1"
+            },
+            {
+                "User_14": "MEC_1"
+            }
+        ],
+        "MEC_usage": {
+            "MEC_0": 2993190182400.0,
+            "MEC_1": 2994431035200.0
+        },
+        "Users_QoE": {
+            "User_0": 11.78350206951907,
+            "User_1": 29.1121815835177,
+            "User_2": 55.884341619660496,
+            "User_3": 59.61065752815528,
+            "User_4": 4.1588830833596715,
+            "User_5": 59.610657528155286,
+            "User_6": 38.816242111356935,
+            "User_7": 37.42994775023705,
+            "User_8": 17.328679513998633,
+            "User_9": 16.635532333438686,
+            "User_10": 59.63775959491201,
+            "User_11": 36.7368005696771,
+            "User_12": 40.20253647247682,
+            "User_13": 24.260151319598084,
+            "User_14": 9.010913347279288,
+            "User_15": 135.28357137722014
+        },
+        "Total_QoE": 635.502357802557,
+        "Time": 300.11
+    }
+}
