@@ -22,7 +22,7 @@ for user in range(1, 7):
     qoe_line1.append(json_obj["Solution"]["Time"] * 1000)
 
 for user in range(1, 6):
-    json_obj = json.load(open('../C7_{}_users_4_BSs_2_MEC_solution.json'.format(user)))
+    json_obj = json.load(open('../RCA_{}_users_4_BSs_2_MEC_solution.json'.format(user)))
     qoe_line2.append(json_obj["Solution"]["Time"] * 1000)
 
 for user in range(1, 17):
@@ -62,4 +62,4 @@ custom_lines = [
 plt.legend(handles=custom_lines, fontsize=12.4, ncol=3, loc="upper center", bbox_to_anchor=(0.5, 1.22))
 
 # Display the plot
-plt.savefig('comparing_users_time.pdf', dpi=300, bbox_inches='tight')
+plt.savefig('comparing_users_time.png', dpi=300, bbox_inches='tight')

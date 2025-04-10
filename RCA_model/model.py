@@ -317,7 +317,7 @@ def run_model(BSs, users, MEC_servers, image_ID):
 
     solution_json["Solution"]["Time"] = round(end_time - start_time, 2)
 
-    json.dump(solution_json, open("../optimization_model/solutions/C7_{}_users_{}_BSs_{}_MEC_solution.json".format(len(users), len(BSs), len(MEC_servers)), "w"), indent=4)
+    json.dump(solution_json, open("../optimization_model/solutions/RCA_{}_users_{}_BSs_{}_MEC_solution.json".format(len(users), len(BSs), len(MEC_servers)), "w"), indent=4)
 
     print("-------------------------------------------------------------")
     print("TOTAL TIME: {}".format(end_time - start_time))

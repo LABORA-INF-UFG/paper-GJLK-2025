@@ -49,7 +49,7 @@ for user in range(1, 7):
     qoe_avg_line1.append(avg * scalar)
 
 for user in range(1, 17):
-    json_obj = json.load(open('../C7_{}_users_4_BSs_2_MEC_solution.json'.format(user)))
+    json_obj = json.load(open('../RCA_{}_users_4_BSs_2_MEC_solution.json'.format(user)))
     qoe_line2.append(json_obj["Solution"]["Total_QoE"])
 
     my_count = 0
@@ -153,4 +153,4 @@ custom_lines_total = [
 ]
 
 plt.legend(handles=custom_lines_total, fontsize=10.2, loc='lower left', bbox_to_anchor=(-0.02, 0.98), ncol=3)
-plt.savefig('total_QoE.pdf', dpi=300, bbox_inches='tight')
+plt.savefig('total_QoE.png', dpi=300, bbox_inches='tight')
