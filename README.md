@@ -39,7 +39,7 @@ paper-GJLK-2025/
 │
 ├── input_scenarios/                # Input files used to create the evaluation instances
 │   ├── BSs/                        # Input files with Base Stations (BSs) information
-│   │    └── 4_BNs.json/             Define the scenario with 4 BSs
+│   │    └── 4_BNs.json/            # Define the scenario with 4 BSs
 │   ├── Labels/                     # Define the labels of objects in each virtual scene (more information [here](https://github.com/HongyangDu/User-Object-Attention-Level)!
 │   │    └── i_txt.json/            # i-th image labels file
 │   ├── MEC_servers/                # Input files with MEC servers information
