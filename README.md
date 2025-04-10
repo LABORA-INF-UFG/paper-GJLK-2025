@@ -55,7 +55,7 @@ paper-GJLK-2025/
 │   ├── model.py/                   # VR-GX optimization model implementation using docplex
 │   └── run_model.py/               # Script used to run the VR-GX optimization model
 │
-└── README.md           # This file
+└── README.md                       # This file
 ```
 
 ## Running the Code
