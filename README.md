@@ -92,11 +92,11 @@ python3 make_plots.py
 
 ### Average QoE comparison
 
-![Total QoE](optimization_model/plots/average_QoE.png)
+![Total QoE](optimization_model/solutions/plots/average_QoE.png)
 
 ### Processing time comparison
 
-![Average QoE](optimization_model/plots/comparing_users_time.png)
+![Average QoE](optimization_model/solutions/plots/comparing_users_time.png)
 
 ## How to cite:
 ```
