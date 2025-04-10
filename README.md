@@ -2,7 +2,7 @@
 
 This repository contains the implementation and evaluation scripts of the paper:
 
-Gabriel M. Almeida, João Paulo Esper, Luiz A. DaSilva, Kleber V. Cardoso. "VR-GX: an Attention-aware QoE-based resource allocation model for VR-Cloud Gaming". In: Proceedings of the 43rd Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025).
+Gabriel M. Almeida, João Paulo Esper, Luiz A. DaSilva, Kleber V. Cardoso. "**VR-GX: an Attention-aware QoE-based resource allocation model for VR-Cloud Gaming**". In: Proceedings of the 43rd Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025).
 
 ## Overview
 
