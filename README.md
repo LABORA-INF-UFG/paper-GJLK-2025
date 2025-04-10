@@ -2,9 +2,7 @@
 
 This repository contains the implementation and evaluation scripts of the paper:
 
-> Gabriel M. Almeida, João Paulo Esper, Luiz A. DaSilva, Kleber V. Cardoso.  
-> "VR-GX: an Attention-aware QoE-based resource allocation model for VR-Cloud Gaming".  
-> In: Proceedings of the 43rd Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025).
+Gabriel M. Almeida, João Paulo Esper, Luiz A. DaSilva, Kleber V. Cardoso. "VR-GX: an Attention-aware QoE-based resource allocation model for VR-Cloud Gaming". In: Proceedings of the 43rd Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025).
 
 ## Overview
 
@@ -103,7 +101,7 @@ python3 make_plots.py
 @inproceedings{almeida2025vrgx,
   author    = {Gabriel M. Almeida and Jo{\~a}o Paulo Esper and Luiz A. DaSilva and Kleber V. Cardoso},
   title     = {VR-GX: an Attention-aware QoE-based resource allocation model for VR-Cloud Gaming},
-  booktitle = {Anais do XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos},
+  booktitle = {Proceedings of the 43rd Brazilian Symposium on Computer Networks and Distributed Systems (SBRC 2025)},
   year      = {2025}
   doi       = {TBD}
 }
