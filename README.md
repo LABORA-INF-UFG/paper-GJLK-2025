@@ -108,6 +108,3 @@ python3 make_plots.py
   doi       = {TBD}
 }
 ```
-```
-
-@inproceedings{almeida:24, author = {Gabriel Almeida and Mohammad Abdel-Rahman and Kleber Cardoso}, title = { Constraint-Aware Deep Reinforcement Learning for vRAN Dynamic Placement}, booktitle = {Anais do XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos}, location = {Niterói/RJ}, year = {2024}, keywords = {}, issn = {2177-9384}, pages = {337--350}, publisher = {SBC}, address = {Porto Alegre, RS, Brasil}, doi = {10.5753/sbrc.2024.1379}, url = {https://sol.sbc.org.br/index.php/sbrc/article/view/29803} }
