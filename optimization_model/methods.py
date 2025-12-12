@@ -1,29 +1,46 @@
+from classes import CN, GNB, GAME, USER, PATH
 import json
-import pandas as pd
-from classes import BS, user, MEC
 
-def read_BSs(file):
-    json_obj = json.load(open(file, 'r'))
-    BSs = []
-    for i in json_obj["BSs"]:
-        BSs.append(BS(i["ID"], i["TxPw"], i["BW"], i["range"], i["Pkt_proc"]))
-    return BSs
-
-def read_users(file):
-    json_obj = json.load(open(file, 'r'))
-    users = []
-    for i in json_obj["users"]:
-        object_attention = {}
-        df = pd.read_csv(open("/home/gabriel/workspace/QoE-based-Resource-Allocation/input_scenarios/my_rating.csv", "r"))
-        for index, row in df.iterrows():
-            if row['userId'] == i["ID"]:
-                object_attention[int(row['objectId'])] = int(row['rating'])
-        users.append(user(i["ID"], i["device"], i["SINR"], i["application_ID"], object_attention))
-    return users
-
-def read_MEC(file):
-    json_obj = json.load(open(file, 'r'))
-    MEC_servers = []
-    for i in json_obj["MEC_servers"]:
-        MEC_servers.append(MEC(i["ID"], i["CPU"], i["RAM"], i["HDD"], i["GFLOPs"], i["latency"]))
-    return MEC_servers
+def read_input_files(n_CNs, n_GNBs, n_users, timestamp):
+    CNs_list = json.load(open("../input_files/topology/{}_gNBs.json".format(n_CNs), 'r'))["nodes"]
+    CNs = []
+    for cn in CNs_list:
+        CNs.append(CN(cn["ID"], cn["CPU_capacity"], cn["GPU_capacity"], cn["RAM_capacity"], cn["compression_ratio"], cn["Network_capacity"], cn["Fixed_cost"], cn["Variable_cost"]))
+    
+    GNBs_list = json.load(open("../input_files/gNBs/{}_gNBs.json".format(n_GNBs), 'r'))["gNBs"]
+    GNBs = []
+    for gnb in GNBs_list:
+        GNBs.append(GNB(gnb["ID"], gnb["TX_power"], gnb["number_PRBs"], gnb["PRB_BW"]))
+    
+    Games_list = json.load(open("../input_files/games/{}_users_games_timestamp_0.json".format(n_users, timestamp), 'r'))["games"]
+    Games = []
+    for game in Games_list:
+        Games.append(GAME(game["ID"], game["CPU_requirement"], game["RAM_requirement"], game["game_type"]))
+    
+    Users_list = json.load(open("../input_files/users/{}_gNBs/{}_users_timestamp_{}.json".format(n_GNBs, n_users, timestamp), 'r'))["users"]
+    Users = []
+    for user in Users_list:
+        Users.append(USER(user["ID"], user["SE"], user["game"], user["game_instance"], user["max_resolution"], user["max_frame_rate"]))
+    
+    Paths_list = json.load(open("../input_files/topology/{}_gNBs.json".format(n_GNBs), 'r'))["paths"]
+    Paths = []
+    pathID = 0
+    Links_latency = {}
+    Links_bandwidth = {}
+    for path in Paths_list:
+        Paths.append(PATH(pathID, Paths_list[path]["path"][0], Paths_list[path]["path"][len(Paths_list[path]["path"]) - 1], Paths_list[path]["latency"], Paths_list[path]["bandwidth"], Paths_list[path]["links"]))
+        pathID += 1
+    Links_list = json.load(open("../input_files/topology/{}_gNBs.json".format(n_GNBs), 'r'))["links"]
+    Links = []
+    for link in Links_list:
+        i = link["from"]
+        j = link["to"]
+        if (i, j) not in Links:
+            Links.append((i, j))
+            Links.append((j, i))
+        Links_latency[(i, j)] = link["latency"]
+        Links_latency[(j, i)] = link["latency"]
+        Links_bandwidth[(i, j)] = link["bandwidth"]
+        Links_bandwidth[(j, i)] = link["bandwidth"]
+    
+    return CNs, GNBs, Games, Users, Paths, Links, Links_latency, Links_bandwidth

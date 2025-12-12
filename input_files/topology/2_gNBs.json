@@ -1,0 +1,62 @@
+{
+    "nodes": [
+        {
+            "ID": 1,
+            "CPU_capacity": 40000,
+            "GPU_capacity": 40000,
+            "RAM_capacity": 256,
+            "Network_capacity": 40000,
+            "compression_ratio": 0.25,
+            "Fixed_cost": 10,
+            "Variable_cost": 1
+        },
+        {
+            "ID": 2,
+            "CPU_capacity": 20000,
+            "GPU_capacity": 20000,
+            "RAM_capacity": 128,
+            "Network_capacity": 20000,
+            "compression_ratio": 0.25,
+            "Fixed_cost": 20,
+            "Variable_cost": 2
+        }
+    ],
+    "links": [
+        {
+            "from": 1,
+            "to": 2,
+            "latency": 3.21,
+            "bandwidth": 8076
+        }
+    ],
+    "paths": {
+        "(1, 2, 0)": {
+            "path": [
+                1,
+                2
+            ],
+            "latency": 3.21,
+            "bandwidth": 8076,
+            "links": [
+                [
+                    1,
+                    2
+                ]
+            ]
+        },
+        "(2, 1, 0)": {
+            "path": [
+                2,
+                1
+            ],
+            "latency": 3.21,
+            "bandwidth": 8076,
+            "links": [
+                [
+                    2,
+                    1
+                ]
+            ]
+        }
+    }
+}

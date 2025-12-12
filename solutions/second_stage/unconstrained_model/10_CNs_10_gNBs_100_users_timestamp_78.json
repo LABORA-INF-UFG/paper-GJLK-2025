@@ -1,0 +1,416 @@
+{
+    "solution": {
+        "Total_Cost": 559.21,
+        "time": 0.6569807529449463,
+        "Used_CNs": [
+            9,
+            2,
+            3,
+            1,
+            6
+        ],
+        "users": {
+            "0": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "1": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "2": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "3": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "4": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "5": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "6": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "7": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "8": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "9": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "10": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "11": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "12": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "13": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "14": {
+                "max_latency": 0.031599999999999996,
+                "used_CN": 3
+            },
+            "15": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "16": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "17": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "18": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "19": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "20": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "21": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "22": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "23": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "24": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "25": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "26": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "27": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "28": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "29": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "30": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "31": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "32": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "33": {
+                "max_latency": 0.03167,
+                "used_CN": 6
+            },
+            "34": {
+                "max_latency": 0.03167,
+                "used_CN": 6
+            },
+            "35": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "36": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "37": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "38": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "39": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "40": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "41": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "42": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "43": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "44": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "45": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "46": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "47": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "48": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "49": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "50": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "51": {
+                "max_latency": 0.03167,
+                "used_CN": 6
+            },
+            "52": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "53": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "54": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "55": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "56": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "57": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "58": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "59": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "60": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "61": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "62": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "63": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "64": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "65": {
+                "max_latency": 0.03167,
+                "used_CN": 6
+            },
+            "66": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "67": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "68": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "69": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "70": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "71": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "72": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "73": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "74": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "75": {
+                "max_latency": 0.0316,
+                "used_CN": 2
+            },
+            "76": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "77": {
+                "max_latency": 0.03299,
+                "used_CN": 1
+            },
+            "78": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "79": {
+                "max_latency": 0.03167,
+                "used_CN": 6
+            },
+            "80": {
+                "max_latency": 0.03167,
+                "used_CN": 6
+            },
+            "81": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "82": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "83": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "84": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "85": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "86": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "87": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "88": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "89": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "90": {
+                "max_latency": 0.03195,
+                "used_CN": 1
+            },
+            "91": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "92": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "93": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "94": {
+                "max_latency": 0.031039999999999998,
+                "used_CN": 3
+            },
+            "95": {
+                "max_latency": 0.03156,
+                "used_CN": 9
+            },
+            "96": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "97": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "98": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            },
+            "99": {
+                "max_latency": 0.03056,
+                "used_CN": 2
+            }
+        },
+        "migration_cost": 52
+    }
+}

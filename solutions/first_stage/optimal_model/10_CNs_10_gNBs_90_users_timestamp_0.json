@@ -1,0 +1,2438 @@
+{
+    "solution": {
+        "Total_QoE": 63.19417646661102,
+        "time": 0.9532184600830078,
+        "users": [
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 0,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    6
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "6": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "6": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "6": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "6": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "6": 139
+                },
+                "ID": 1,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 2,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "performance"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 189,
+                "PRBs": {
+                    "10": 189
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226049291.99999994,
+                "throughput_to_gNB": {
+                    "10": 226049291.99999994
+                },
+                "latency_to_gNB": {
+                    "10": 0.9984768536235896
+                },
+                "gNBs_PRBs": {
+                    "10": 189
+                },
+                "ID": 3,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 4,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 5,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 6,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 62,
+                "PRBs": {
+                    "10": 62
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 114171264.0,
+                "throughput_to_gNB": {
+                    "10": 114171264.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9886500449009656
+                },
+                "gNBs_PRBs": {
+                    "10": 62
+                },
+                "ID": 7,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 8,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 39,
+                "PRBs": {
+                    "10": 39
+                },
+                "total_load": 62208000.0,
+                "load_to_gNB": {
+                    "10": 62208000.0
+                },
+                "total_throughput": 63508535.99999999,
+                "throughput_to_gNB": {
+                    "10": 63508535.99999999
+                },
+                "latency_to_gNB": {
+                    "10": 0.9995218708867736
+                },
+                "gNBs_PRBs": {
+                    "10": 39
+                },
+                "ID": 9,
+                "resolution": "1080p",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 10,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 57,
+                "PRBs": {
+                    "10": 57
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113982444.00000001,
+                "throughput_to_gNB": {
+                    "10": 113982444.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.990254682378981
+                },
+                "gNBs_PRBs": {
+                    "10": 57
+                },
+                "ID": 11,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 12,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 13,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 14,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 15,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 16,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 17,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 18,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 19,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 20,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 62,
+                "PRBs": {
+                    "10": 62
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 114171264.0,
+                "throughput_to_gNB": {
+                    "10": 114171264.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9886500449009656
+                },
+                "gNBs_PRBs": {
+                    "10": 62
+                },
+                "ID": 21,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 22,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 23,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 24,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 25,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 26,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 27,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 28,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 29,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 30,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 31,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 32,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 33,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 34,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 35,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 57,
+                "PRBs": {
+                    "10": 57
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113982444.00000001,
+                "throughput_to_gNB": {
+                    "10": 113982444.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.990254682378981
+                },
+                "gNBs_PRBs": {
+                    "10": 57
+                },
+                "ID": 36,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 37,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 38,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 39,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 40,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 57,
+                "PRBs": {
+                    "10": 57
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113982444.00000001,
+                "throughput_to_gNB": {
+                    "10": 113982444.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.990254682378981
+                },
+                "gNBs_PRBs": {
+                    "10": 57
+                },
+                "ID": 41,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 42,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 43,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 57,
+                "PRBs": {
+                    "10": 57
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113982444.00000001,
+                "throughput_to_gNB": {
+                    "10": 113982444.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.990254682378981
+                },
+                "gNBs_PRBs": {
+                    "10": 57
+                },
+                "ID": 44,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 45,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 46,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 47,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 81,
+                "PRBs": {
+                    "10": 81
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113791068.0,
+                "throughput_to_gNB": {
+                    "10": 113791068.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9918864753075347
+                },
+                "gNBs_PRBs": {
+                    "10": 81
+                },
+                "ID": 48,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 49,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 57,
+                "PRBs": {
+                    "10": 57
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113982444.00000001,
+                "throughput_to_gNB": {
+                    "10": 113982444.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.990254682378981
+                },
+                "gNBs_PRBs": {
+                    "10": 57
+                },
+                "ID": 50,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 51,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 156,
+                "PRBs": {
+                    "10": 156
+                },
+                "total_load": 248832000.0,
+                "load_to_gNB": {
+                    "10": 248832000.0
+                },
+                "total_throughput": 254034143.99999997,
+                "throughput_to_gNB": {
+                    "10": 254034143.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9995218708867736
+                },
+                "gNBs_PRBs": {
+                    "10": 156
+                },
+                "ID": 52,
+                "resolution": "4K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 53,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 62,
+                "PRBs": {
+                    "10": 62
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 114171264.0,
+                "throughput_to_gNB": {
+                    "10": 114171264.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9886500449009656
+                },
+                "gNBs_PRBs": {
+                    "10": 62
+                },
+                "ID": 54,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 55,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 29,
+                "PRBs": {
+                    "10": 29
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "10": 55296000.0
+                },
+                "total_throughput": 57991068.00000001,
+                "throughput_to_gNB": {
+                    "10": 57991068.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.9735261533724469
+                },
+                "gNBs_PRBs": {
+                    "10": 29
+                },
+                "ID": 56,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 57,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 58,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 59,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 60,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 61,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 62,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 63,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 81,
+                "PRBs": {
+                    "10": 81
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113791068.0,
+                "throughput_to_gNB": {
+                    "10": 113791068.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9918864753075347
+                },
+                "gNBs_PRBs": {
+                    "10": 81
+                },
+                "ID": 64,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 65,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 66,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 67,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 68,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 123,
+                "PRBs": {
+                    "10": 123
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226501056.0,
+                "throughput_to_gNB": {
+                    "10": 226501056.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9965252485180467
+                },
+                "gNBs_PRBs": {
+                    "10": 123
+                },
+                "ID": 69,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 70,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 71,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 189,
+                "PRBs": {
+                    "10": 189
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226049291.99999994,
+                "throughput_to_gNB": {
+                    "10": 226049291.99999994
+                },
+                "latency_to_gNB": {
+                    "10": 0.9984768536235896
+                },
+                "gNBs_PRBs": {
+                    "10": 189
+                },
+                "ID": 72,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 73,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 74,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 75,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 76,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 77,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 57,
+                "PRBs": {
+                    "10": 57
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113982444.00000001,
+                "throughput_to_gNB": {
+                    "10": 113982444.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.990254682378981
+                },
+                "gNBs_PRBs": {
+                    "10": 57
+                },
+                "ID": 78,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 79,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 181,
+                "PRBs": {
+                    "10": 181
+                },
+                "total_load": 248832000.0,
+                "load_to_gNB": {
+                    "10": 248832000.0
+                },
+                "total_throughput": 254273868.0,
+                "throughput_to_gNB": {
+                    "10": 254273868.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.998598398479548
+                },
+                "gNBs_PRBs": {
+                    "10": 181
+                },
+                "ID": 80,
+                "resolution": "4K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 81,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 57,
+                "PRBs": {
+                    "10": 57
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113982444.00000001,
+                "throughput_to_gNB": {
+                    "10": 113982444.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.990254682378981
+                },
+                "gNBs_PRBs": {
+                    "10": 57
+                },
+                "ID": 82,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 83,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "10": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "10": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "10": 139
+                },
+                "ID": 84,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "10": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "10": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "10": 161
+                },
+                "ID": 85,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "10": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "10": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "10": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "10": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "10": 113
+                },
+                "ID": 86,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 81,
+                "PRBs": {
+                    "10": 81
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113791068.0,
+                "throughput_to_gNB": {
+                    "10": 113791068.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9918864753075347
+                },
+                "gNBs_PRBs": {
+                    "10": 81
+                },
+                "ID": 87,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    5
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "5": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "5": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "5": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "5": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "5": 113
+                },
+                "ID": 88,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 29,
+                "PRBs": {
+                    "10": 29
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "10": 55296000.0
+                },
+                "total_throughput": 57991068.00000001,
+                "throughput_to_gNB": {
+                    "10": 57991068.00000001
+                },
+                "latency_to_gNB": {
+                    "10": 0.9735261533724469
+                },
+                "gNBs_PRBs": {
+                    "10": 29
+                },
+                "ID": 89,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            }
+        ]
+    }
+}

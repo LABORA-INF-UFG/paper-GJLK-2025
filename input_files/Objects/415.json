@@ -1,0 +1,56 @@
+{
+    "objects": [
+        {
+            "object_ID": 0,
+            "length": 78602
+        },
+        {
+            "object_ID": 18,
+            "length": 10192
+        },
+        {
+            "object_ID": 14,
+            "length": 35379
+        },
+        {
+            "object_ID": 36,
+            "length": 1169
+        },
+        {
+            "object_ID": 17,
+            "length": 14197
+        },
+        {
+            "object_ID": 19,
+            "length": 27295
+        },
+        {
+            "object_ID": 39,
+            "length": 6543
+        },
+        {
+            "object_ID": 125,
+            "length": 4942
+        },
+        {
+            "object_ID": 15,
+            "length": 3286
+        },
+        {
+            "object_ID": 8,
+            "length": 32
+        },
+        {
+            "object_ID": 3,
+            "length": 20032
+        },
+        {
+            "object_ID": 110,
+            "length": 4949
+        },
+        {
+            "object_ID": 28,
+            "length": 23782
+        }
+    ]
+}

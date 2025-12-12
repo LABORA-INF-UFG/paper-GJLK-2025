@@ -1,0 +1,44 @@
+{
+    "objects": [
+        {
+            "object_ID": 4,
+            "length": 110865
+        },
+        {
+            "object_ID": 2,
+            "length": 16310
+        },
+        {
+            "object_ID": 43,
+            "length": 4138
+        },
+        {
+            "object_ID": 80,
+            "length": 10938
+        },
+        {
+            "object_ID": 20,
+            "length": 309
+        },
+        {
+            "object_ID": 6,
+            "length": 80222
+        },
+        {
+            "object_ID": 12,
+            "length": 1296
+        },
+        {
+            "object_ID": 11,
+            "length": 5306
+        },
+        {
+            "object_ID": 17,
+            "length": 30
+        },
+        {
+            "object_ID": 13,
+            "length": 986
+        }
+    ]
+}

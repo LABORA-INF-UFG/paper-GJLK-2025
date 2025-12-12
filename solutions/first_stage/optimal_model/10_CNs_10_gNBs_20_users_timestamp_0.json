@@ -1,0 +1,548 @@
+{
+    "solution": {
+        "Total_QoE": 13.862943611198785,
+        "time": 0.0770416259765625,
+        "users": [
+            {
+                "serving_gNBs": [
+                    1
+                ],
+                "Total_PRBs": 95,
+                "PRBs": {
+                    "1": 95
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "1": 110592000.0
+                },
+                "total_throughput": 113622659.99999997,
+                "throughput_to_gNB": {
+                    "1": 113622659.99999997
+                },
+                "latency_to_gNB": {
+                    "1": 0.9933269754466233
+                },
+                "gNBs_PRBs": {
+                    "1": 95
+                },
+                "ID": 0,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    3
+                ],
+                "Total_PRBs": 58,
+                "PRBs": {
+                    "3": 58
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "3": 55296000.0
+                },
+                "total_throughput": 57012840.0,
+                "throughput_to_gNB": {
+                    "3": 57012840.0
+                },
+                "latency_to_gNB": {
+                    "3": 0.9898867833982661
+                },
+                "gNBs_PRBs": {
+                    "3": 58
+                },
+                "ID": 1,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    4
+                ],
+                "Total_PRBs": 64,
+                "PRBs": {
+                    "4": 64
+                },
+                "total_load": 124416000.0,
+                "load_to_gNB": {
+                    "4": 124416000.0
+                },
+                "total_throughput": 127980288.00000001,
+                "throughput_to_gNB": {
+                    "4": 127980288.00000001
+                },
+                "latency_to_gNB": {
+                    "4": 0.9921497110555024
+                },
+                "gNBs_PRBs": {
+                    "4": 64
+                },
+                "ID": 2,
+                "resolution": "1080p",
+                "frame_rate": 120,
+                "priority": "performance"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 95,
+                "PRBs": {
+                    "10": 95
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113622659.99999997,
+                "throughput_to_gNB": {
+                    "10": 113622659.99999997
+                },
+                "latency_to_gNB": {
+                    "10": 0.9933269754466233
+                },
+                "gNBs_PRBs": {
+                    "10": 95
+                },
+                "ID": 3,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    6
+                ],
+                "Total_PRBs": 70,
+                "PRBs": {
+                    "6": 70
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "6": 110592000.0
+                },
+                "total_throughput": 113989679.99999999,
+                "throughput_to_gNB": {
+                    "6": 113989679.99999999
+                },
+                "latency_to_gNB": {
+                    "6": 0.9901930911640424
+                },
+                "gNBs_PRBs": {
+                    "6": 70
+                },
+                "ID": 4,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    3
+                ],
+                "Total_PRBs": 113,
+                "PRBs": {
+                    "3": 113
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "3": 221184000.0
+                },
+                "total_throughput": 225965196.00000003,
+                "throughput_to_gNB": {
+                    "3": 225965196.00000003
+                },
+                "latency_to_gNB": {
+                    "3": 0.9988410070018038
+                },
+                "gNBs_PRBs": {
+                    "3": 113
+                },
+                "ID": 5,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    9
+                ],
+                "Total_PRBs": 81,
+                "PRBs": {
+                    "9": 81
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "9": 110592000.0
+                },
+                "total_throughput": 113791068.0,
+                "throughput_to_gNB": {
+                    "9": 113791068.0
+                },
+                "latency_to_gNB": {
+                    "9": 0.9918864753075347
+                },
+                "gNBs_PRBs": {
+                    "9": 81
+                },
+                "ID": 6,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    4
+                ],
+                "Total_PRBs": 29,
+                "PRBs": {
+                    "4": 29
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "4": 55296000.0
+                },
+                "total_throughput": 57991068.00000001,
+                "throughput_to_gNB": {
+                    "4": 57991068.00000001
+                },
+                "latency_to_gNB": {
+                    "4": 0.9735261533724469
+                },
+                "gNBs_PRBs": {
+                    "4": 29
+                },
+                "ID": 7,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    10
+                ],
+                "Total_PRBs": 81,
+                "PRBs": {
+                    "10": 81
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "10": 110592000.0
+                },
+                "total_throughput": 113791068.0,
+                "throughput_to_gNB": {
+                    "10": 113791068.0
+                },
+                "latency_to_gNB": {
+                    "10": 0.9918864753075347
+                },
+                "gNBs_PRBs": {
+                    "10": 81
+                },
+                "ID": 8,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    1
+                ],
+                "Total_PRBs": 32,
+                "PRBs": {
+                    "1": 32
+                },
+                "total_load": 62208000.0,
+                "load_to_gNB": {
+                    "1": 62208000.0
+                },
+                "total_throughput": 63990144.00000001,
+                "throughput_to_gNB": {
+                    "1": 63990144.00000001
+                },
+                "latency_to_gNB": {
+                    "1": 0.9921497110555024
+                },
+                "gNBs_PRBs": {
+                    "1": 32
+                },
+                "ID": 9,
+                "resolution": "1080p",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    4
+                ],
+                "Total_PRBs": 35,
+                "PRBs": {
+                    "4": 35
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "4": 55296000.0
+                },
+                "total_throughput": 56994839.99999999,
+                "throughput_to_gNB": {
+                    "4": 56994839.99999999
+                },
+                "latency_to_gNB": {
+                    "4": 0.9901930911640424
+                },
+                "gNBs_PRBs": {
+                    "4": 35
+                },
+                "ID": 10,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    8
+                ],
+                "Total_PRBs": 29,
+                "PRBs": {
+                    "8": 29
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "8": 55296000.0
+                },
+                "total_throughput": 57991068.00000001,
+                "throughput_to_gNB": {
+                    "8": 57991068.00000001
+                },
+                "latency_to_gNB": {
+                    "8": 0.9735261533724469
+                },
+                "gNBs_PRBs": {
+                    "8": 29
+                },
+                "ID": 11,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    6
+                ],
+                "Total_PRBs": 29,
+                "PRBs": {
+                    "6": 29
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "6": 55296000.0
+                },
+                "total_throughput": 57991068.00000001,
+                "throughput_to_gNB": {
+                    "6": 57991068.00000001
+                },
+                "latency_to_gNB": {
+                    "6": 0.9735261533724469
+                },
+                "gNBs_PRBs": {
+                    "6": 29
+                },
+                "ID": 12,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    5
+                ],
+                "Total_PRBs": 35,
+                "PRBs": {
+                    "5": 35
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "5": 55296000.0
+                },
+                "total_throughput": 56994839.99999999,
+                "throughput_to_gNB": {
+                    "5": 56994839.99999999
+                },
+                "latency_to_gNB": {
+                    "5": 0.9901930911640424
+                },
+                "gNBs_PRBs": {
+                    "5": 35
+                },
+                "ID": 13,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    1
+                ],
+                "Total_PRBs": 70,
+                "PRBs": {
+                    "1": 70
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "1": 110592000.0
+                },
+                "total_throughput": 113989679.99999999,
+                "throughput_to_gNB": {
+                    "1": 113989679.99999999
+                },
+                "latency_to_gNB": {
+                    "1": 0.9901930911640424
+                },
+                "gNBs_PRBs": {
+                    "1": 70
+                },
+                "ID": 14,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    1
+                ],
+                "Total_PRBs": 81,
+                "PRBs": {
+                    "1": 81
+                },
+                "total_load": 110592000.0,
+                "load_to_gNB": {
+                    "1": 110592000.0
+                },
+                "total_throughput": 113791068.0,
+                "throughput_to_gNB": {
+                    "1": 113791068.0
+                },
+                "latency_to_gNB": {
+                    "1": 0.9918864753075347
+                },
+                "gNBs_PRBs": {
+                    "1": 81
+                },
+                "ID": 15,
+                "resolution": "2K",
+                "frame_rate": 60,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    4
+                ],
+                "Total_PRBs": 139,
+                "PRBs": {
+                    "4": 139
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "4": 221184000.0
+                },
+                "total_throughput": 226350935.99999997,
+                "throughput_to_gNB": {
+                    "4": 226350935.99999997
+                },
+                "latency_to_gNB": {
+                    "4": 0.9971728975752945
+                },
+                "gNBs_PRBs": {
+                    "4": 139
+                },
+                "ID": 16,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    9
+                ],
+                "Total_PRBs": 41,
+                "PRBs": {
+                    "9": 41
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "9": 55296000.0
+                },
+                "total_throughput": 57597948.0,
+                "throughput_to_gNB": {
+                    "9": 57597948.0
+                },
+                "latency_to_gNB": {
+                    "9": 0.9800342012184184
+                },
+                "gNBs_PRBs": {
+                    "9": 41
+                },
+                "ID": 17,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    5
+                ],
+                "Total_PRBs": 161,
+                "PRBs": {
+                    "5": 161
+                },
+                "total_load": 221184000.0,
+                "load_to_gNB": {
+                    "5": 221184000.0
+                },
+                "total_throughput": 226177308.0,
+                "throughput_to_gNB": {
+                    "5": 226177308.0
+                },
+                "latency_to_gNB": {
+                    "5": 0.9979230372659665
+                },
+                "gNBs_PRBs": {
+                    "5": 161
+                },
+                "ID": 18,
+                "resolution": "2K",
+                "frame_rate": 120,
+                "priority": "quality"
+            },
+            {
+                "serving_gNBs": [
+                    5
+                ],
+                "Total_PRBs": 48,
+                "PRBs": {
+                    "5": 48
+                },
+                "total_load": 55296000.0,
+                "load_to_gNB": {
+                    "5": 55296000.0
+                },
+                "total_throughput": 57409344.0,
+                "throughput_to_gNB": {
+                    "5": 57409344.0
+                },
+                "latency_to_gNB": {
+                    "5": 0.9831881527857208
+                },
+                "gNBs_PRBs": {
+                    "5": 48
+                },
+                "ID": 19,
+                "resolution": "2K",
+                "frame_rate": 30,
+                "priority": "quality"
+            }
+        ]
+    }
+}

@@ -1,0 +1,907 @@
+{
+    "games": [
+        {
+            "ID": 739630,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 236390,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 438100,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2050650,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1475810,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 275850,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 629520,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1066890,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1029690,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1551360,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1250410,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 214490,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 242760,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2488620,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "performance"
+        },
+        {
+            "ID": 286160,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 392160,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 244210,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 359320,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1293830,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1190000,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 502500,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 314650,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 613100,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 254700,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1290000,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 690790,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 859570,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1533390,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1659040,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2537590,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 264710,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 465240,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 471710,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1943950,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 805550,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "performance"
+        },
+        {
+            "ID": 493340,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1523720,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 24010,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2069310,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 223750,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1173510,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1435790,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 252870,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1066780,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 655500,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2108330,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "performance"
+        },
+        {
+            "ID": 767560,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 546560,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 629730,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 786520,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2440510,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "performance"
+        },
+        {
+            "ID": 2314160,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 431240,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 16900,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2967990,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2420110,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 562810,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1068820,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1486350,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 230290,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 737800,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "performance"
+        },
+        {
+            "ID": 380600,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1244460,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 211500,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "performance"
+        },
+        {
+            "ID": 269950,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1987080,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1807080,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 635260,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 301760,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1196590,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 582500,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 491540,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 365960,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1849250,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 895870,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 450540,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1009850,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1222730,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 362930,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "performance"
+        },
+        {
+            "ID": 611670,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 621060,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 348250,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1494460,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1255560,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 448280,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 851890,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 341800,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 685240,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 314160,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2399420,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 670290,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1070820,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 886250,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 3097560,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 418370,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1274570,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 307960,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 332570,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2290180,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 621830,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 617830,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1583320,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "performance"
+        },
+        {
+            "ID": 688480,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "performance"
+        },
+        {
+            "ID": 322500,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 314000,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1012790,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2370570,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 588030,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 515180,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 571740,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1636030,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1850740,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 493490,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1230410,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2698940,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1161580,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 823500,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 470220,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "performance"
+        },
+        {
+            "ID": 460920,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "quality"
+        },
+        {
+            "ID": 882140,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 611660,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 908520,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 16,
+            "game_type": "quality"
+        },
+        {
+            "ID": 310560,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 967050,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        },
+        {
+            "ID": 564310,
+            "CPU_requirement": 2000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 14,
+            "game_type": "quality"
+        },
+        {
+            "ID": 2406770,
+            "CPU_requirement": 4000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 10,
+            "game_type": "quality"
+        },
+        {
+            "ID": 1259980,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "performance"
+        },
+        {
+            "ID": 212070,
+            "CPU_requirement": 3000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 12,
+            "game_type": "performance"
+        },
+        {
+            "ID": 1205970,
+            "CPU_requirement": 5000,
+            "cold_CPU_requirement": 11000,
+            "RAM_requirement": 8,
+            "game_type": "quality"
+        }
+    ]
+}

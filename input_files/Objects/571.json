@@ -1,0 +1,40 @@
+{
+    "objects": [
+        {
+            "object_ID": 1,
+            "length": 65902
+        },
+        {
+            "object_ID": 80,
+            "length": 2585
+        },
+        {
+            "object_ID": 20,
+            "length": 54295
+        },
+        {
+            "object_ID": 102,
+            "length": 5753
+        },
+        {
+            "object_ID": 43,
+            "length": 1825
+        },
+        {
+            "object_ID": 12,
+            "length": 36750
+        },
+        {
+            "object_ID": 6,
+            "length": 36826
+        },
+        {
+            "object_ID": 93,
+            "length": 5977
+        },
+        {
+            "object_ID": 11,
+            "length": 20487
+        }
+    ]
+}

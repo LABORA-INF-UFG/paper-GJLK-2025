@@ -1,0 +1,64 @@
+{
+    "gNBs": [
+        {
+            "ID": 1,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 2,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 3,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 4,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 5,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 6,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 7,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 8,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 9,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        },
+        {
+            "ID": 10,
+            "TX_power": 30,
+            "number_PRBs": 16,
+            "PRB_BW": 0.36
+        }
+    ]
+}
